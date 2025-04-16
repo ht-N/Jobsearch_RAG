@@ -86,3 +86,4 @@ GROQ_API_KEY = "your_groq_api_key"
 Thanks to @Sajjad Amjad for the CV Parser!
 - [Sajjad Amjad's Github](https://github.com/Sajjad-Amjad/Resume-Parser#)
 - [His CV_Parser](https://github.com/Sajjad-Amjad/Resume-Parser#)
+- [A cute person asked me to help her, so that this project exist](https://github.com/ThanhTruccc)
