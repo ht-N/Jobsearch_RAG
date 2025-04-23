@@ -56,19 +56,20 @@ conda activate <your_vir_env_name>
 
 ```bash
 # These are the required library, it will be in the requirements.txt folder:
-pandas
-numpy
-torch
-faiss-cpu
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+langchain>=0.0.267
+langchain-groq>=0.1.0
+groq>=0.4.0
+pydantic>=2.0.0
+selenium>=4.12.0
+pandas>=2.0.0
+streamlit>=1.28.0
+torch>=2.0.0
+langchain-community>=0.0.10
 sentence-transformers
-pdfplumber
-streamlit
-selenium
-msedge-selenium-tools
-webdriver-manager
-requests
-beautifulsoup4
-lxml
+faiss-cpu
 ```
 
 ```bash
