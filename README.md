@@ -47,6 +47,13 @@ cd Jobsearch_RAG
 ```
 
 ### Install requirements
+
+```bash
+# First, you need to install a virtual env, you can use Anaconda (Miniconda)
+conda create -n <your_vir_env_name> python=3.11
+conda activate <your_vir_env_name>
+```
+
 ```bash
 # These are the required library, it will be in the requirements.txt folder:
 pandas
